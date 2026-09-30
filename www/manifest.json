@@ -1,0 +1,16 @@
+{
+  "name": "Highway Fuel Assist Demo",
+  "short_name": "Fuel Demo",
+  "description": "Request petrol or diesel from verified roadside providers. Phase 1 prototype with sample data.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ECEFEA",
+  "theme_color": "#00613A",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

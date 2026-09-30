@@ -1,0 +1,9 @@
+{
+  "appId": "com.highwayfuelassist.demo",
+  "appName": "Fuel Assist Demo",
+  "webDir": "www",
+  "android": {
+    "adjustMarginsForEdgeToEdge": "auto",
+    "backgroundColor": "#00613A"
+  }
+}
